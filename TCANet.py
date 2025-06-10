@@ -15,6 +15,7 @@ class TCANet(nn.Module):
         n_chans=22,
         out_features: int = 4,
         n_times=1000,
+        
         # Model parameters
         activation: nn.Module = nn.ELU,
         depth_multiplier: int = 2,
@@ -49,8 +50,8 @@ class TCANet(nn.Module):
         )
 
         # TCN Block
-        self.tcn_block = _TCNBlock(
-            input_dimension=48,
+        self.tcn_block = TCNBlock(
+            input_dimension=96,
             depth=self.depth,
             kernel_size=self.kernel_size,
             filters=self.filters,
