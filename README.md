@@ -11,6 +11,10 @@ Decoding motor imagery electroencephalogram (MI-EEG) signals is fundamental to t
 ### Overall Framework:
 ![architecture of TCANet](https://raw.githubusercontent.com/snailpt/TCANet/refs/heads/main/TCANet_architecture.png)
 
+
+### Dataset & prepare processing
+the same as [CTNet](https://github.com/snailpt/CTNet)
+
 Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2a dataset.
 | Method \ Subject      | A01   | A02   | A03   | A04   | A05   | A06   | A07   | A08   | A09   | Average |
 |-----------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|
