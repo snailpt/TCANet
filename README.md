@@ -47,7 +47,8 @@ Note: Comparison of experimental results when data augmentation only generates 1
 | MSCFormer        | 75.00 | 68.57 | 80.00 | 98.44 | 95.94 | 85.00 | 93.75 | 94.38 | 88.44 | 86.61   |
 | **TCANet (proposed)** | 82.50 | 70.71 | 86.88 | 97.81 | 94.69 | 87.19 | 92.50 | 95.94 | 88.44 | **88.52** | 
 
-Comparison of cross-subject classification accuracy (in %) and kappa on the BCI IV-2a & IV-2b datasets.
+
+#### Comparison of cross-subject classification accuracy (in %) and kappa on the BCI IV-2a & IV-2b datasets.
 | Method \ Subject       | BCI IV-2a | BCI IV-2b |
 |------------------------|-----------|-----------|
 | ShallowConvNet     | 58.64     | 74.92     |
