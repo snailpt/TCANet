@@ -15,7 +15,9 @@ Decoding motor imagery electroencephalogram (MI-EEG) signals is fundamental to t
 ### Dataset & prepare processing
 the same as [CTNet](https://github.com/snailpt/CTNet)
 
-Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2a dataset.
+
+
+#### Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2a dataset.
 | Method \ Subject      | A01   | A02   | A03   | A04   | A05   | A06   | A07   | A08   | A09   | Average |
 |-----------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|
 | ShallowConvNet   | 82.64 | 56.94 | 90.97 | 68.06 | 71.18 | 57.64 | 75.69 | 82.29 | 75.69 | 73.46   |
@@ -32,7 +34,7 @@ Note: Comparison of experimental results when data augmentation only generates 1
 
 
 
-Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2b dataset.
+#### Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2b dataset.
 | Method \ Subject      | A01   | A02   | A03   | A04   | A05   | A06   | A07   | A08   | A09   | Average | 
 |-----------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|
 | ShallowConvNet        | 71.88 | 64.29 | 83.75 | 96.88 | 92.81 | 84.69 | 90.94 | 90.94 | 85.62 | 84.64   |
