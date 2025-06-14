@@ -14,5 +14,6 @@ Decoding motor imagery electroencephalogram (MI-EEG) signals is fundamental to t
 
 ### Citation
 Hope this code can be useful. I would appreciate you citing us in your paper. 😊
+
 Zhao, W., Lu, H., Zhang, B. et al. TCANet: a temporal convolutional attention network for motor imagery EEG decoding. Cogn Neurodyn 19, 91 (2025). https://doi.org/10.1007/s11571-025-10275-5
 
