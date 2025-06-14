@@ -23,7 +23,9 @@ Comparison of Subject-specific classification accuracy (in %) and kappa on the B
 | ADFCNN          | 88.19 | 60.07 | 92.01 | 78.82 | 70.49 | 65.97 | 83.68 | 84.03 | 81.60 | 78.32   | 
 | MSCFormer       | 86.46 | 61.46 | 93.75 | 80.90 | 77.78 | 69.44 | 91.32 | 83.68 | 78.47 | 80.36   |
 | **TCANet (proposed)** | 88.89 | 70.14 | 92.71 | 79.86 | 77.78 | 74.31 | 92.71 | 85.76 | 85.42 | **83.06** | 
+
 Note: Comparison of experimental results when data augmentation only generates 1 times the original training sample size
+
 
 
 Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2b dataset.
