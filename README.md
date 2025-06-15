@@ -1,5 +1,5 @@
 # TCANet for motor imagery EEG classification
-## TCANet: A Temporal Convolutional Attention Network for Motor Imagery EEG Decoding [[Paper](https://link.springer.com/article/10.1007/s11571-025-10275-5)]
+## TCANet: A Temporal Convolutional Attention Network for Motor Imagery EEG Decoding [[Paper](https://link.springer.com/article/10.1007/s11571-025-10275-5)] [PDF (https://rdcu.be/eq1n8)]
 
 core idea: Multi-scale CNN + TCN + multi-head self-atttention
 
