@@ -15,7 +15,8 @@ Decoding motor imagery electroencephalogram (MI-EEG) signals is fundamental to t
 ### Dataset & prepare processing
 the same as [CTNet](https://github.com/snailpt/CTNet)
 
-
+### Experimental Setup:
+The original training set was split into training and validation subsets with a ratio of 8:2. Data augmentation was performed to increase the training set size by 100%.
 
 #### Comparison of Subject-specific classification accuracy (in %) and kappa on the BCI IV-2a dataset.
 | Method \ Subject      | A01   | A02   | A03   | A04   | A05   | A06   | A07   | A08   | A09   | Average |
